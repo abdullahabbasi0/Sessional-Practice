@@ -1,1 +1,5 @@
-HelloWorld!
+<<<<<<< HEAD
+Hello from Main!!
+=======
+Hello from Conflictttt!!
+>>>>>>> conflict
